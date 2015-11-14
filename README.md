@@ -1,3 +1,1 @@
-Test
-Test2
-Test3
+Demo app for angular-guider @ https://github.com/rcorrie/angular-guider
